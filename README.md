@@ -1,6 +1,6 @@
 ## Hi there 😀 👋
 
-My name is Jimmy and I am a software engineer and technical lead in the San Francisco Bay Area. My expertise is in building scalable enterprise web applications and integrating best CI/CD practices throughout the software development lifecycle. I have also been involved in video decoding (H.264/AVC, VC-1) on the GPU, GPGPU (OpenCL), and heterogeneous computing (oneAPI, SYCL) and AI. I believe AI has the power to enrich and improve the quality of everyone's life, and am passionate about incoporating AI into existing web applications to enhance the user experience.
+My name is Jimmy and I am a software engineer and technical lead in the San Francisco Bay Area. My expertise is in building scalable enterprise web applications and integrating best CI/CD practices throughout the software development lifecycle. I have also been involved in video decoding (H.264/AVC, VC-1) on the GPU, GPGPU (OpenCL), and heterogeneous computing (oneAPI, SYCL) and AI. I believe AI has the power to enrich and improve the quality of everyone's life, and am passionate about incoporating AI into web applications to enhance user experience.
 
 I'm very active in the open source community and have contributed or been involved in the following open-source projects.
  
