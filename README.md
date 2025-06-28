@@ -11,4 +11,4 @@ I'm very active in the open source community and have contributed or been involv
 | [jimmytwei/polite-guard-webapp](https://github.com/jimmytwei/polite-guard-webapp) | I created two code samples demonstrating how to run the [Polite Guard](https://huggingface.co/Intel/polite-guard) Small Language Model (SLM) in the web browser. One of the samples even runs fully locally in the browser, with no data being sent across the Internet! I believe this is the future of browser apps (and apps in general), as privacy becomes increasingly important. |
 | [gitana/alpaca](https://github.com/gitana/alpaca)                                 | Alpaca is a very cool JavaScript library for generating dynamic HTML5 forms from a JSON schema using existing user interfaces such as Bootstrap. I've used it in my own projects and have reported bug issues. |
 
-Please feel free to reach out to me via e-mail for open source collaborations or potential new job opportunities. 
+Please feel free to reach out to me via e-mail for open source collaborations or potential new job opportunities. A copy of my resume can be found [here](./resume.pdf).
