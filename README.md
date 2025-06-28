@@ -10,3 +10,5 @@ I'm very active in the open source community and have contributed or been involv
 | [intel/AI-PC-Samples](https://github.com/intel/AI-PC-Samples)                     | I'm also the maintainer of the AI-PC-Samples repo. Check out some of these cool AI code samples that can run on Intel® Core™ Ultra Processors! | 
 | [jimmytwei/polite-guard-webapp](https://github.com/jimmytwei/polite-guard-webapp) | I created two code samples demonstrating how to run the Polite Guard Small Language Model (SLM) in the web browser. One code sample runs fully locally in the browser, with no data being sent across the Internet! I believe this is the future of browser apps (and apps in general), as privacy becomes increasingly important. |
 | [gitana/alpaca](https://github.com/gitana/alpaca)                                 | Alpaca is a very cool JavaScript library for generating dynamic HTML5 forms from a JSON schema using existing user interfaces such as Bootstrap. I've used it in my own projects and have reported bug issues. |
+
+Please feel free to reach out via e-mail for open source collaborations or new job opportunities. 
