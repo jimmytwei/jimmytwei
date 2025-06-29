@@ -6,8 +6,8 @@ I'm very active in the open source community and have contributed or been involv
  
 | Projects                                                                          | Impact      |
 | --------------------------------------------------------------------------------- | ----------- |
-| [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples)         | I have been the maintainer of the oneAPI-samples repo since 2022. Reviewed PRs, fixed bugs and contributed new code samples. Ask me anything about oneAPI and SYCL! |
-| [intel/AI-PC-Samples](https://github.com/intel/AI-PC-Samples)                     | I am also the maintainer of the AI-PC-Samples repo. Check out some of these cool AI PC code samples that can run on Intel® Core™ Ultra Processors! | 
+| [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples)         | I have been a maintainer of the oneAPI-samples repo since 2022. Reviewed PRs, fixed bugs and contributed new code samples. Ask me anything about oneAPI and SYCL! |
+| [intel/AI-PC-Samples](https://github.com/intel/AI-PC-Samples)                     | I am also a maintainer of the AI-PC-Samples repo. Check out some of these cool AI PC code samples that can run on Intel® Core™ Ultra Processors! | 
 | [jimmytwei/polite-guard-webapp](https://github.com/jimmytwei/polite-guard-webapp) | I created two code samples demonstrating how to run the [Polite Guard](https://huggingface.co/Intel/polite-guard) Small Language Model (SLM) in the web browser. One of the samples even runs fully locally in the browser, with no data being sent across the Internet! I believe this is the future of browser apps, as compute and memory on PCs increase and privacy of user's data becomes increasingly important. |
 | [gitana/alpaca](https://github.com/gitana/alpaca)                                 | Alpaca is a very cool JavaScript library for generating dynamic HTML5 forms from a JSON schema using existing user interfaces such as Bootstrap. I have used it in my own projects and have reported bug issues. |
 
