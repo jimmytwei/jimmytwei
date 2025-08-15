@@ -1,6 +1,6 @@
 ## Hi there 😀 👋
 
-Thanks for stopping by! My name is Jimmy and I am a software engineer and technical lead in the San Francisco Bay Area. My expertise is in building secure, scalable enterprise web applications and integrating best CI/CD practices throughout the software development lifecycle. I have also been involved in video decoding ([H.264](https://www.itu.int/rec/T-REC-H.264), [VC-1](https://en.wikipedia.org/wiki/VC-1)) on the GPU, GPGPU ([OpenCL](https://www.khronos.org/opencl)), heterogeneous computing ([oneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html), [SYCL](https://www.khronos.org/sycl)) and AI.
+Thanks for stopping by! My name is Jimmy and I am a software engineer in the San Francisco Bay Area. My expertise is in building web applications using .NET and integrating best CI/CD practices throughout the software development lifecycle. I have also been involved in video decoding ([H.264](https://www.itu.int/rec/T-REC-H.264), [VC-1](https://en.wikipedia.org/wiki/VC-1)) on the GPU, GPGPU ([OpenCL](https://www.khronos.org/opencl)), heterogeneous computing ([oneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html), [SYCL](https://www.khronos.org/sycl)) and AI.
 
 I am very active in the open source community and have been involved in the following open source projects.
  
