@@ -6,7 +6,7 @@ I am very active in the open source community and have been involved in the foll
  
 | Projects                                                                          | Description |
 | --------------------------------------------------------------------------------- | ----------- |
-| [jimmytwei/gasbuddy-mcp-price-tracker](https://github.com/jimmytwei/gasbuddy-mcp-price-tracker) | I created a [GasBuddy](https://www.gasbuddy.com) MCP server which you can integrate with Claude to get the cheapest gas prices in your city. Check it out! |
+| [jimmytwei/gasbuddy-mcp-price-tracker](https://github.com/jimmytwei/gasbuddy-mcp-price-tracker) | I created a [GasBuddy](https://www.gasbuddy.com) MCP server which you can integrate with Claude to get the cheapest gas prices in your city. Listed on [Awesome MCP Servers](https://mcpservers.org/servers/jimmytwei/gasbuddy-mcp-price-tracker) as well. Check it out! |
 | [jimmytwei/polite-guard-webapp](https://github.com/jimmytwei/polite-guard-webapp) | I created two code samples demonstrating how to run the [Polite Guard](https://huggingface.co/Intel/polite-guard) Small Language Model (SLM) in the [web browser](https://jimmytwei.github.io/polite-guard). One of the samples even runs inferencing locally in the browser. |
 | [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples)         | I was the maintainer of the oneAPI-samples repo. Ask me anything about [oneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html) and SYCL! |
 | [intel/AI-PC-Samples](https://github.com/intel/AI-PC-Samples)                     | I was also a co-maintainer of the AI-PC-Samples repo. Check out some of these cool AI PC code samples that can run on Intel® Core™ Ultra Processors! | 
