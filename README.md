@@ -11,3 +11,5 @@ I am very active in the open source community and have been involved in the foll
 | [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples)         | I was the maintainer of the oneAPI-samples repo. Ask me anything about [oneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html) and SYCL! |
 | [intel/AI-PC-Samples](https://github.com/intel/AI-PC-Samples)                     | I was also a co-maintainer of the AI-PC-Samples repo. Check out some of these cool AI PC code samples that can run on Intel® Core™ Ultra Processors! | 
 | [gitana/alpaca](https://github.com/gitana/alpaca)                                 | Alpaca is a very cool JavaScript library for generating dynamic HTML5 forms from a JSON schema using existing user interfaces such as Bootstrap. I have used it in my own projects and reported bugs. |
+
+You can find my contact information and resume [here](./resume.pdf).
